@@ -1,0 +1,10 @@
+# Output the scripts generate at runtime — photos, logs, waypoint files
+output/
+
+# Python cache/bytecode
+__pycache__/
+*.pyc
+
+# Common editor/OS clutter
+.vscode/
+.DS_Store
